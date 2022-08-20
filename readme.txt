@@ -1,4 +1,6 @@
-The submission contains:
+This project is a processor based on RISC instruction architecture
+
+This project contains:
 . a folder containing the whole project (risc-kgp)
 . a folder of all the verilog files (verilog_files)
 . a folder containing 2 .coe files (coe_files)
