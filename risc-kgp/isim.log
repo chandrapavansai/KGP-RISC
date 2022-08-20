@@ -1,0 +1,22 @@
+ISim log file
+Running: /home/ise/share/prok/risc-kgp/controltest_isim_beh.exe -intstyle ise -gui -tclbatch isim.cmd -wdb /home/ise/share/prok/risc-kgp/controltest_isim_beh.wdb 
+ISim P.20131013 (signature 0xfbc00daa)
+----------------------------------------------------------------------
+WARNING:Security:42 - Your software subscription period has lapsed. Your current version of Xilinx tools will continue to function, but you no longer qualify for Xilinx software updates or new releases.
+
+
+----------------------------------------------------------------------
+This is a Full version of ISim.
+Time resolution is 1 ps
+# onerror resume
+# wave add /
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+                   0 RegWrite=1,MemRead=0,MemWrite=0,MemtoReg=0,regbranch=0,AluSrc=0,RegDst=0 
+                   1 RegWrite=1,MemRead=0,MemWrite=0,MemtoReg=0,regbranch=0,AluSrc=1,RegDst=0 
+                   2 RegWrite=1,MemRead=1,MemWrite=0,MemtoReg=1,regbranch=0,AluSrc=1,RegDst=1 
+                   3 RegWrite=0,MemRead=0,MemWrite=1,MemtoReg=0,regbranch=0,AluSrc=1,RegDst=0 
+                   4 RegWrite=0,MemRead=0,MemWrite=0,MemtoReg=0,regbranch=1,AluSrc=1,RegDst=0 
+Stopped at time : 70 ns : File "/home/ise/share/prok/risc-kgp/controltest.v" Line 76
+# exit 0

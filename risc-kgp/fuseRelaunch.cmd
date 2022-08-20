@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -lib "secureip" -o "/home/ise/share/prok/risc-kgp/controltest_isim_beh.exe" -prj "/home/ise/share/prok/risc-kgp/controltest_beh.prj" "work.controltest" "work.glbl" 
